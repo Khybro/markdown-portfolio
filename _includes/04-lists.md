@@ -1,0 +1,8 @@
+- My Current Favorite Savory Foods
+    - Pizza
+    - Chinese food
+    - Lasagna
+- My Current Favorite Sweet Foods
+    - Dark chocolate
+    - Ice cream
+    - Gummy bears
